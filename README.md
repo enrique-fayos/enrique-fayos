@@ -1,5 +1,5 @@
 ### Hola, soy Enrique
-Diseño digital y FPGA (SystemVerilog/Verilog) · Basys 3 · DE2-115
+Diseño digital y FPGA (SystemVerilog/Verilog)
 
 > Nota: algunos proyectos académicos se publicarán aquí cuando finalice su evaluación.
 
