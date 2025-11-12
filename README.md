@@ -1,5 +1,11 @@
-## Hi there 👋
+### Hola, soy Enrique
+Diseño digital y FPGA (SystemVerilog/Verilog) · Basys 3 · DE2-115
 
+> Nota: algunos proyectos académicos se publicarán aquí cuando finalice su evaluación.
+
+**Contacto:**  
+LinkedIn: http://www.linkedin.com/in/enr-fayos
+Email: enr.fayos@gmail.com
 <!--
 **enrique-fayos/enrique-fayos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
